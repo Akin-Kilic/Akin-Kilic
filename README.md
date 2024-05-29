@@ -36,4 +36,4 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akin-kilic&label=Profile%20views&color=0e75b6&style=flat" alt="akin-kilic" /> </p>
 
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Akin-Kilic/Akin-Kilic/blob/output/github-contribution-grid-snake-dark.svg)
