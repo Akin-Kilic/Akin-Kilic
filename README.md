@@ -35,3 +35,6 @@
 <a href="https://github.com/Akin-Kilic"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akin-kilic&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=15" /></a>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akin-kilic&label=Profile%20views&color=0e75b6&style=flat" alt="akin-kilic" /> </p>
+
+
+![snake gif](https://github.com/Akin-Kilic/Akin-Kilic/blob/output/github-contribution-grid-snake.gif)
