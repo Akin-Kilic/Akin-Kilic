@@ -4,10 +4,6 @@
 <br>
 <br>
 <br>
-<p>Tech:</p>
-<br>
-<br>
-<br>
 
 
 - 🌱 Currently developing with **Golang**
